@@ -6,11 +6,9 @@ Are you a blogger who likes to reach out to people through quality content and c
 
 If your answer is “yes” to any of the above queries, then you probably need to learn how to write code on your own.
 
-![women-web-developer-with-laptop (3).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1608135563520/q63DnNMkC.png)
+In this article, we take a closer look at the 40 amazing resources to learn to code for free all you will need is **access to an internet connection** and a **good laptop**.
 
-In this article, we take a closer look at the 30 amazing resources to learn to code for free all you will need is **access to an internet connection** and a **good laptop**.
-
-The objective of this blog is to reveal the features offered by each of the 30 free code learning resources to encourage you to start coding on your own.
+The objective of this blog is to reveal the features offered by each of the 40 free code learning resources to encourage you to start coding on your own.
 
 ## 1. [Codeacademy](https://www.codecademy.com/)
  <font color="blue">Text</font> 
@@ -173,7 +171,6 @@ You’ll also get access to free e-books, helpful downloads, and a community sup
 
 Edabit is “like **Duolingo for learning to code**,” offering bite-sized coding challenges that simulate what programming is like in the real world.
 
-![edabit-1024x598.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1608135638817/7nZXU4n4m.jpeg)
 
 ## 28. [Launch School Open Book Shelf](https://learntocodewith.me/launch-school-books)
 
@@ -245,4 +242,4 @@ On thenewboston, you will find more than 4,200 videos that are followed by over 
 3. [Best Places to code for free](https://learntocodewith.me/posts/code-for-free/)
 4. [Free Youtube Resources](https://ayokasystems.com/news/top-10-youtube-channels-to-learn-programming/)
 
-If you have used any such tools, please share your experience in the comments. 👨‍💻️
+Drop a star for future reference. 👨‍💻️
