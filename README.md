@@ -234,6 +234,11 @@ Among the content, you will find videos like Learn the Ruby Programming Language
 On thenewboston, you will find more than 4,200 videos that are followed by over a million subscribers. TheNewBoston is arguably the single best resource for anyone who wants to become a software developer.
 
  The tutorials cover a range of different programming topics including developing for android and design. 
+ 
+ ## 38. [Scaler Topics](https://www.scaler.com/topics/)
+ 
+ Scaler Topics provides programming articles related to Python, Java, Data Structure, C/C++ and other popular programming languages with easy to follow tutorials and example programs.
+
 
 ### Resources
 
